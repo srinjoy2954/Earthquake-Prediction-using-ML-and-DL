@@ -7,7 +7,7 @@ import streamlit.components.v1 as components
 st.set_page_config(page_title="Our Team", layout="wide")
 
 # ---- Default Placeholder Image ----
-DEFAULT_IMAGE = "assets/default_profile.png"  # Fallback image if profile image not found
+DEFAULT_IMAGE = "assets/default_image.png"  # Fallback image if profile image not found
 
 # ---- Team Members Data ----
 team_members = [
